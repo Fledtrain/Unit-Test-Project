@@ -10,6 +10,19 @@ For uneven amounts, assignthe extra amount to randomly any guest (all values rou
 ## Features 
 Calculate Bill by how many Guest you have
 
+
+## Deployment
+
+To Test this project run
+
+```bash
+  npm i --save-dev jest
+  node payBill.test.js 15.16 5
+  node payBill.test.js [BillTotal][NumberOfGuest]
+
+```
+
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://fledtrain.github.io/E-Portfolio)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joeywhitehead/)
