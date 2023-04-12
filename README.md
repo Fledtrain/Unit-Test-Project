@@ -8,7 +8,7 @@ For uneven amounts, assign the extra amount to randomly any guest (all values ro
 
 
 ## Features 
-Calculate your Bill by how many Guest you have
+- Calculate your Bill by how many Guest you have
 
 
 ## Newer Version Deployment
