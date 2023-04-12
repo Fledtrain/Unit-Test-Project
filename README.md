@@ -38,13 +38,8 @@ To Test this project run
 
 ![Logo](https://pbs.twimg.com/profile_images/1607115031136636928/fZIGEc0r_400x400.jpg)
 
-## Authors
+## Author
 - [@Joey Whitehead](https://www.github.com/Fledtrain)
-- [@Mohamed Musbah](https://github.com/MohamedM829)
-- [@Emdadul Haque](https://www.linkedin.com/in/emdadul-haque-67a021154/)
-- [@Ahmad Aref](https://www.linkedin.com/in/ahmadsaref/)
-- [@Joel Grau](https://www.linkedin.com/in/joel-grau-1a056714a/)
-- [@Anthony Condegni](https://www.linkedin.com/in/anthony-condegni-80365a1ba/)
 
 
 ## Acknowledgements
