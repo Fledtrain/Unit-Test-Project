@@ -4,16 +4,24 @@ Unit Test Project (Pay the Bill)
 # Description
 Input a total bill amount including the tip (ex. $15.16) and the number of guest.
 The function should distribute the cost of the entire meal between the number of provided guests. (e.g., payBill (15.16, 3) ==> guest1-$5.06, guest2-$5.05, guest3-$5.05).
-For uneven amounts, assignthe extra amount to randomly any guest (all values rounded to cents - 2 decimal places).
+For uneven amounts, assign the extra amount to randomly any guest (all values rounded to cents - 2 decimal places).
 
 
 ## Features 
 Calculate your Bill by how many Guest you have
 
 
-## Deployment
+## Newer Version Deployment
 
-To Test this project run
+```bash
+  npm i --save-dev jest
+  Install Jest Extension in VSC
+
+```
+
+## Older Version Deployment
+
+To Test this project run 
 
 ```bash
   npm i --save-dev jest
